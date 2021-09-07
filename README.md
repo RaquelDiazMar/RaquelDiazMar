@@ -12,13 +12,14 @@
 
 
 
-I'm a learner @&nbsp;&nbsp;&nbsp;&nbsp;
-![Man](https://img.shields.io/badge/‎-Madrid_Fundación_Telefónica-informational?style=plastic&logo=42&logoColor=whit) 
-Before that, not so long ago in the same galaxy, a seasoned aeronautical engineer, who shifted through an MBA in Big Data and Data Analytics in order to find her path and pursue a career in Data Science in the Bioinformatics field 👽. Loving Math, Statistic, Machine Learning algorithms, Reinforcement Learning and almost everything in that menu. I'm capable to speak several languages to either communicate with humans or computers 🤖, and always open to learn new things.
+🔉 I'm a learner @&nbsp;&nbsp;&nbsp;&nbsp;
+![Man](https://img.shields.io/badge/‎-Madrid_Fundación_Telefónica-informational?style=plastic&logo=42&logoColor=white) 
+
+Before that, not so long ago in the same galaxy, a seasoned aeronautical engineer ✈️, who shifted through an MBA in Big Data and Data Analytics 💻  in order to find her path and pursue a career in Data Science in the Bioinformatics field ⛳. Loving Math, Statistic 📊, Machine Learning algorithms, Reinforcement Learning and almost everything in that menu. I'm capable to speak several languages to either communicate with humans or computers 🤖, and always open to learn new things 🚧.
 
 
 ### My 42 Cursus Stats
-![42 Born2Code](https://badgen.net/badge/Born2Code/rdiaz/purple?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg)
+![42 Born2Code](https://badgen.net/badge/Born2Code/rdiaz/green?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg)
 
 [![42 stats](https://badge42.herokuapp.com/api/stats/rdiaz)](https://github.com/JaeSeoKim/badge42)
 
